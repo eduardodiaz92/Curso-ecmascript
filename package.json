@@ -1,0 +1,25 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Clases de practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardodiaz92/Curso-ecmascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "platzi",
+    "clases"
+  ],
+  "author": "Eduardo Diaz <eduaedodiaz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardodiaz92/Curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/eduardodiaz92/Curso-ecmascript#readme"
+}
