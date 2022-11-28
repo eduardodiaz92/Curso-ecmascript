@@ -1,7 +1,7 @@
 const fbAsync = () => {
   return new Promise((resolve, reject) => {
     true
-      ? setTimeout(() => resolve("AsynC!!", 2000))
+      ? setTimeout(() => resolve("AsynC!!"), 2000)
       : reject(new Error("Error!"));
   });
 };
