@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/eduardodiaz92/Curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/eduardodiaz92/Curso-ecmascript#readme"
+  "homepage": "https://github.com/eduardodiaz92/Curso-ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
